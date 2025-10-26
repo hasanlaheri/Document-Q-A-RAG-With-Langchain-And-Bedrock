@@ -1,0 +1,5 @@
+#python virtual enviroment
+venv
+
+#vector-store
+faiss_index
